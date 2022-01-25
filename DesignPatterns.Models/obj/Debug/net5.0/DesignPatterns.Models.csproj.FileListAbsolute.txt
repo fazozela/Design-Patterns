@@ -1,0 +1,15 @@
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.deps.json
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.runtimeconfig.json
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.runtimeconfig.dev.json
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\bin\Debug\net5.0\ref\DesignPatterns.Models.dll
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.AssemblyReference.cache
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfoInputs.cache
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfo.cs
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.CoreCompileInputs.cache
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.dll
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\ref\DesignPatterns.Models.dll
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\Felix.Zelaya\source\repos\DesingPattern\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.genruntimeconfig.cache
